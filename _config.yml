@@ -1,15 +1,15 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Mara the Test
+title:               Mara Great
 tagline:             'A Collection of Poems'
 description:         'setting up a digital collection of poems'
-url:                 'eizent.github.io/marathetest/'
+url:                 'https://maragreat.github.io/poetry/'
 #baseurl:             ''
 
 # About/contact
 author:
-  name:              Mara the Test
+  name:              Mara Great
   url:               
   email:             
 
