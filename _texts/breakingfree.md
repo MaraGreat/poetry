@@ -1,10 +1,9 @@
 ---
 layout: poem
 title: Breaking Free
-author: Mara Great
-date: April 2023
-location: Gallaudet University
 ---
+(Gallaudet University, April 2023) 
+
 - On the black stage, 
 - you fluently glide, jump and fly. 
 - Embodying rhythms, you tap into 
