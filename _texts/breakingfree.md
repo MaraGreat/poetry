@@ -2,7 +2,7 @@
 layout: poem
 title: Breaking Free
 ---
-(Gallaudet University, April 2023) 
+*Gallaudet University, April 2023*
 
 - On the black stage, 
 - you fluently glide, jump and fly. 
