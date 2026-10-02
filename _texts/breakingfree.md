@@ -1,6 +1,7 @@
 ---
 layout: poem
 title: Breaking Free
+author: Mara Great
 ---
 *Gallaudet University, April 2023*
 
