@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Autumn Orange / Old Gold 
+title: Old Gold 
 author: Mara Great
 ---
 
