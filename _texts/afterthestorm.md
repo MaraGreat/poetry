@@ -5,7 +5,7 @@ author: Mara Great
 ---
 
 - Under a hard blue sky,
-- over the street's shint leaf covered surface
+- over the street's shiny leaf covered surface
 - like a page out of Emily Dickenson's 
 - herbarium,
 - I bike. 
